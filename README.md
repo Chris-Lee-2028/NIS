@@ -1,4 +1,4 @@
-# Notable Vehicles Pickup and Delivery Problem-NIS
+# Neural Integrated Search
 
 ## Dependencies
 
